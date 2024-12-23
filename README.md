@@ -69,8 +69,8 @@ pyyaml                    6.0.1           py312h98912ed_1    conda-forge
 pyzmq                     26.0.0          py312h886d080_0    conda-forge
 matplotlib-base           3.8.0           py312h526ad5a_0    https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
 matplotlib-inline         0.1.7              pyhd8ed1ab_0    conda-forge
-typed-argument-parser         1.10.0
-typing_extensions             4.9.0
+typed-argument-parser     1.10.0
+typing_extensions         4.9.0
 
 ```
 # Usage
